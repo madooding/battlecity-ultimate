@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="26" height="26" tilewidth="25" tileheight="25" nextobjectid="1">
+ <tileset firstgid="1" source="Battlecity.tsx"/>
+ <layer name="Tile Layer 1" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJzNVgkKxDAItCT/f/MWtgODjMa0W9kBIYe3MYnZF8dJ86Rxjcc1xxgE8Fomu4vIThXTzeGb8mWYjm0li1hN7EXYiQM6WcbH9QtAJ+qGMftgbj2D51E6s3iqOYr4pthX9fH5PRztyK/qwjErcO4jZL3EujM9vBf5U7GR8UY9lums+M81yXiUbu7VlR3wexmuseoLJeN5WUcms7LTlTeFN85B17nu6tOue6frHv2Hd+Epqu+Cwt13u+sfUsXTf5X35a1/4geyPQI1
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJzNlkEOACEIAw3/f/TeCQithSxHQqYEi3rObtgC0wZ1NvpXcKKZqDXU7A6P1WLm8aJVeSXzbKVpYC3K8bmbpyoNX5OxlZ7KmIynmPmyZ4J6paOF9BCdSeYDhntj+9zL/qP7EdV194YJZo4TWht39tSbU91JCg0Vc4v7538JEh9W7ADR
+  </data>
+ </layer>
+</map>
